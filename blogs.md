@@ -1,6 +1,29 @@
-#### A List Of Machine Learning + Applied Math Blogs
+Blogs/Podcasts
+===============
 
-##### Data Science / Statistics
+[Hacker News for Data Science](http://www.datatau.com/news)
+
+Podcasts
+--------
+
+[The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+
+[Partially Derivative](http://www.partiallyderivative.com/)
+
+[The Talking Machines](http://www.thetalkingmachines.com/)
+
+[The Data Skeptic](http://dataskeptic.com/)
+
+[Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
+
+[Data Stories](http://datastori.es/)
+
+[Learning Machines 101](http://www.learningmachines101.com/)
+
+[Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
+
+Data Science / Statistics
+-------------------------
 
 http://iamtrask.github.io/
 
@@ -46,7 +69,30 @@ http://drewconway.com/zia/
 
 http://bugra.github.io/
 
-##### Math
+http://opendata.cern.ch/
+
+http://alexanderetz.com/
+
+http://www.sumsar.net/
+
+http://countbayesie.com
+
+http://karpathy.github.io/
+
+http://blog.dato.com/
+
+http://blog.kaggle.com/
+
+http://www.danvk.org/
+
+http://hunch.net/
+
+http://www.randalolson.com/blog/
+
+http://www.johndcook.com/blog/r_language_for_programmers/
+
+Math
+----
 
 http://www.sumsar.net/
 
@@ -58,6 +104,8 @@ http://petewarden.com/
 
 http://mrtz.org/blog/
 
-##### Security Related
+
+Security Related
+----------------
 
 http://jordan-wright.github.io/blog/
